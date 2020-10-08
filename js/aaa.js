@@ -4,6 +4,7 @@ const URL = {
   skills: "https://docs.google.com/document/d/e/2PACX-1vRdCfse-zdoXIffZ2E4TqOcwawTUB7BiBwxOG2tQ6wIubLGou_G63iXfjS20APrmT1iwMgqBcw3KDqj/pub?embedded=true",
   plan: "https://docs.google.com/document/d/e/2PACX-1vQV72Mi6weDvFDCAliDXMHqGHHdJUt3dFebrmJvsPeD4EaOZQGfc3UU0W_eunE66Evb7kJ-jBbZVDg4/pub?embedded=true",
   domain: "https://app.lucidchart.com/documents/embeddedchart/7246c3b9-2ed7-4202-9047-72c822a9c082",
+  fourups: "https://drive.google.com/embeddedfolderview?id=1DPPk7I1hllLN7y_0-iJhuzvsFMOs6xJr",
 }
 
 updateNav = (pageName) => {
